@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 87f8cc261d85f8e4caee4b401165fd86
+timeCreated: 1448845580
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jarbas_0
+    21300002: Jarbas_1
+    21300004: Jarbas_2
+    21300006: Jarbas_3
+    21300008: Jarbas_4
+    21300010: Jarbas_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Jarbas_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 126
+        width: 206
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jarbas_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 124
+        width: 205
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jarbas_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 113
+        width: 206
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jarbas_3
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 116
+        width: 206
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jarbas_4
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 116
+        width: 205
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jarbas_5
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 110
+        width: 206
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

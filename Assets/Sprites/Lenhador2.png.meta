@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: f5b198d130ead7440a82d45d5113b1a2
+timeCreated: 1448215422
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lenhador_P1
+    21300002: Lenhador_P2
+    21300004: Lenhador_1
+    21300006: Lenhador_2
+    21300008: Lenhador_3
+    21300010: Lenhador_4
+    21300012: Lenhador_5
+    21300014: Lenhador_6
+    21300016: Lenhador_D1
+    21300018: Lenhador_D2
+    21300020: Lenhador_D3
+    21300022: Lenhador_A1
+    21300024: Machado_1
+    21300026: Machado_2
+    21300028: Machado_3
+    21300030: Machado_4
+    21300032: Machado_5
+    21300034: Machado_6
+    21300036: Machado_7
+    21300038: Machado_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 1881, z: 1228, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Lenhador_P1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1897
+        width: 218
+        height: 277
+      alignment: 9
+      pivot: {x: .520272136, y: .47606805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lenhador_P2
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1904
+        width: 228
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lenhador_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1398
+        width: 214
+        height: 263
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lenhador_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1396
+        width: 230
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lenhador_3
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1380
+        width: 217
+        height: 281
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lenhador_4
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1394
+        width: 212
+        height: 269
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lenhador_5
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1380
+        width: 214
+        height: 277
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lenhador_6
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1391
+        width: 226
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lenhador_D1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 906
+        width: 212
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lenhador_D2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 906
+        width: 236
+        height: 272
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lenhador_D3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 910
+        width: 270
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lenhador_A1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 475
+        width: 231
+        height: 271
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machado_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 58
+        width: 133
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machado_2
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 58
+        width: 130
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machado_3
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 39
+        width: 134
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machado_4
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 50
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machado_5
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 53
+        width: 138
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machado_6
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 76
+        width: 130
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machado_7
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 46
+        width: 116
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Machado_8
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 46
+        width: 81
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
